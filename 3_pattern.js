@@ -1,4 +1,6 @@
-const prompt = require("prompt-sync")();
-var c;
-c = prompt("Enter Your name = ");
-console.log("Your name is: ", c);
+let n=5
+for(let row=1; row<=n; row++){
+    for(let col=1; col<=row; col++){
+        
+    }
+}
